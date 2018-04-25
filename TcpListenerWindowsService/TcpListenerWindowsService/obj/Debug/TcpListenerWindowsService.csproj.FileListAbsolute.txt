@@ -1,0 +1,21 @@
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe.config
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.pdb
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\log4net.dll
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\log4net.xml
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.ProjectInstaller.resources
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.csproj.GenerateResource.Cache
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.exe
+C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.pdb
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe.config
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.pdb
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\log4net.dll
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\log4net.xml
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.ProjectInstaller.resources
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.csproj.GenerateResource.Cache
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.csproj.CoreCompileInputs.cache
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.exe
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.pdb
+D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\obj\Debug\TcpListenerWindowsService.csprojResolveAssemblyReference.cache

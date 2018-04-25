@@ -1,0 +1,444 @@
+﻿Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = C:\Users\Anh Tran\Downloads\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Attempt to stop service TcpListenerService.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Attempt to stop service TcpListenerService.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Attempt to stop service TcpListenerService.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Attempt to stop service TcpListenerService.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Rolling back assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Creating EventLog source TcpListenerService in log Application...
+Rolling back assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Restoring event log to previous state for source TcpListenerService.
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
+Installing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Installing service TcpListenerService...
+Service TcpListenerService has been successfully installed.
+Creating EventLog source TcpListenerService in log Application...
+Committing assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Uninstalling assembly 'D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.InstallLog
+   assemblypath = D:\Test\TcpListenerWindowsService\TcpListenerWindowsService\bin\Debug\TcpListenerWindowsService.exe
+Removing EventLog source TcpListenerService.
+Service TcpListenerService is being removed from the system...
+Service TcpListenerService was successfully removed from the system.
